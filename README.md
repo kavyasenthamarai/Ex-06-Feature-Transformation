@@ -77,6 +77,7 @@ plt.show()
 ![6 2](https://github.com/kavyasenthamarai/Ex-06-Feature-Transformation/assets/118668727/0980f83a-3e30-4c45-8470-bfa28b98253d)
 ![6 3](https://github.com/kavyasenthamarai/Ex-06-Feature-Transformation/assets/118668727/659983ad-39ca-44a9-86b3-eff7e1ca0141)
 ![6 4](https://github.com/kavyasenthamarai/Ex-06-Feature-Transformation/assets/118668727/9dff1f46-e606-4bd5-9d4d-3c1f22770825)
+
 ![6 5](https://github.com/kavyasenthamarai/Ex-06-Feature-Transformation/assets/118668727/c10420d8-8e90-4703-a4b7-da2370356a0a)
 
 ## Log Transformation
